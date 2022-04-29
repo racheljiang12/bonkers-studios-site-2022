@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/bonkers-studios-site-2022/static/css/main.521b9375.css",
-    "main.js": "/bonkers-studios-site-2022/static/js/main.0310148e.js",
-    "static/media/jellyfish.mp4": "/bonkers-studios-site-2022/static/media/jellyfish.df227bf903b76db2c915.mp4",
-    "static/media/clouds.mp4": "/bonkers-studios-site-2022/static/media/clouds.9841a6356d4b66631ccf.mp4",
-    "static/media/cool clouds.mov": "/bonkers-studios-site-2022/static/media/cool clouds.333f40251c5f475e2b30.mov",
-    "static/media/rooitou_park_4k.exr": "/bonkers-studios-site-2022/static/media/rooitou_park_4k.cebbcc452897291d0cc6.exr",
-    "static/media/eye model modified mountains.glb": "/bonkers-studios-site-2022/static/media/eye model modified mountains.c9762f878bc564102d8b.glb",
-    "static/media/resume.jpg": "/bonkers-studios-site-2022/static/media/resume.1a2257069c402f06b89e.jpg",
-    "static/media/world.jpg": "/bonkers-studios-site-2022/static/media/world.26591cc615353c9c8782.jpg",
-    "static/media/logotype.svg": "/bonkers-studios-site-2022/static/media/logotype.328a6ef0a43c11dfb5795123a47e2847.svg",
-    "static/media/behance.svg": "/bonkers-studios-site-2022/static/media/behance.6200b51484c2396b8d1b147ff2e671a1.svg",
-    "static/media/instagram.svg": "/bonkers-studios-site-2022/static/media/instagram.b133e565e26031a4181b82e6a67d7c65.svg",
-    "index.html": "/bonkers-studios-site-2022/index.html",
-    "static/media/linkedin.svg": "/bonkers-studios-site-2022/static/media/linkedin.98956d298e14a6384fdb39c42269f2f2.svg",
-    "static/media/blue dot.svg": "/bonkers-studios-site-2022/static/media/blue dot.f7c271ea77434cafa6b8ec36cd008913.svg",
-    "main.521b9375.css.map": "/bonkers-studios-site-2022/static/css/main.521b9375.css.map",
-    "main.0310148e.js.map": "/bonkers-studios-site-2022/static/js/main.0310148e.js.map"
+    "main.css": "/static/css/main.521b9375.css",
+    "main.js": "/static/js/main.b44384bd.js",
+    "static/media/jellyfish.mp4": "/static/media/jellyfish.df227bf903b76db2c915.mp4",
+    "static/media/clouds.mp4": "/static/media/clouds.9841a6356d4b66631ccf.mp4",
+    "static/media/cool clouds.mov": "/static/media/cool clouds.333f40251c5f475e2b30.mov",
+    "static/media/rooitou_park_4k.exr": "/static/media/rooitou_park_4k.cebbcc452897291d0cc6.exr",
+    "static/media/eye model modified mountains.glb": "/static/media/eye model modified mountains.c9762f878bc564102d8b.glb",
+    "static/media/resume.jpg": "/static/media/resume.1a2257069c402f06b89e.jpg",
+    "static/media/world.jpg": "/static/media/world.26591cc615353c9c8782.jpg",
+    "static/media/logotype.svg": "/static/media/logotype.328a6ef0a43c11dfb5795123a47e2847.svg",
+    "static/media/behance.svg": "/static/media/behance.6200b51484c2396b8d1b147ff2e671a1.svg",
+    "static/media/instagram.svg": "/static/media/instagram.b133e565e26031a4181b82e6a67d7c65.svg",
+    "index.html": "/index.html",
+    "static/media/linkedin.svg": "/static/media/linkedin.98956d298e14a6384fdb39c42269f2f2.svg",
+    "static/media/blue dot.svg": "/static/media/blue dot.f7c271ea77434cafa6b8ec36cd008913.svg",
+    "main.521b9375.css.map": "/static/css/main.521b9375.css.map",
+    "main.b44384bd.js.map": "/static/js/main.b44384bd.js.map"
   },
   "entrypoints": [
     "static/css/main.521b9375.css",
-    "static/js/main.0310148e.js"
+    "static/js/main.b44384bd.js"
   ]
 }
