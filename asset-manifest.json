@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.2a829cc7.css",
-    "main.js": "/static/js/main.46860070.js",
+    "main.js": "/static/js/main.f8b53546.js",
     "static/media/jellyfish.mp4": "/static/media/jellyfish.df227bf903b76db2c915.mp4",
     "static/media/clouds.mp4": "/static/media/clouds.9841a6356d4b66631ccf.mp4",
     "static/media/cool clouds.mov": "/static/media/cool clouds.333f40251c5f475e2b30.mov",
     "static/media/rooitou_park_4k.exr": "/static/media/rooitou_park_4k.cebbcc452897291d0cc6.exr",
     "static/media/eye model modified mountains.glb": "/static/media/eye model modified mountains.c9762f878bc564102d8b.glb",
     "static/media/about.png": "/static/media/about.30bc96e5bd898da7e89d.png",
+    "static/media/project9.png": "/static/media/project9.65fe81551b74ebeb71f7.png",
     "static/media/project3.png": "/static/media/project3.bf8552beb0d920aca823.png",
     "static/media/project1.png": "/static/media/project1.0e224ba4bb887a74feb1.png",
     "static/media/project8.jpg": "/static/media/project8.cd9e47952b64843148eb.jpg",
@@ -25,10 +26,10 @@
     "static/media/linkedin.svg": "/static/media/linkedin.98956d298e14a6384fdb39c42269f2f2.svg",
     "static/media/blue dot.svg": "/static/media/blue dot.f7c271ea77434cafa6b8ec36cd008913.svg",
     "main.2a829cc7.css.map": "/static/css/main.2a829cc7.css.map",
-    "main.46860070.js.map": "/static/js/main.46860070.js.map"
+    "main.f8b53546.js.map": "/static/js/main.f8b53546.js.map"
   },
   "entrypoints": [
     "static/css/main.2a829cc7.css",
-    "static/js/main.46860070.js"
+    "static/js/main.f8b53546.js"
   ]
 }
