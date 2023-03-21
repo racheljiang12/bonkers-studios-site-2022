@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/bonkers-studios-site-2022/static/css/main.2a829cc7.css",
-    "main.js": "/bonkers-studios-site-2022/static/js/main.2cd55e39.js",
+    "main.css": "/bonkers-studios-site-2022/static/css/main.58078b0a.css",
+    "main.js": "/bonkers-studios-site-2022/static/js/main.f06ae454.js",
     "static/media/jellyfish.mp4": "/bonkers-studios-site-2022/static/media/jellyfish.df227bf903b76db2c915.mp4",
     "static/media/clouds.mp4": "/bonkers-studios-site-2022/static/media/clouds.9841a6356d4b66631ccf.mp4",
     "static/media/cool clouds.mov": "/bonkers-studios-site-2022/static/media/cool clouds.333f40251c5f475e2b30.mov",
@@ -25,11 +25,11 @@
     "index.html": "/bonkers-studios-site-2022/index.html",
     "static/media/linkedin.svg": "/bonkers-studios-site-2022/static/media/linkedin.98956d298e14a6384fdb39c42269f2f2.svg",
     "static/media/blue dot.svg": "/bonkers-studios-site-2022/static/media/blue dot.f7c271ea77434cafa6b8ec36cd008913.svg",
-    "main.2a829cc7.css.map": "/bonkers-studios-site-2022/static/css/main.2a829cc7.css.map",
-    "main.2cd55e39.js.map": "/bonkers-studios-site-2022/static/js/main.2cd55e39.js.map"
+    "main.58078b0a.css.map": "/bonkers-studios-site-2022/static/css/main.58078b0a.css.map",
+    "main.f06ae454.js.map": "/bonkers-studios-site-2022/static/js/main.f06ae454.js.map"
   },
   "entrypoints": [
-    "static/css/main.2a829cc7.css",
-    "static/js/main.2cd55e39.js"
+    "static/css/main.58078b0a.css",
+    "static/js/main.f06ae454.js"
   ]
 }
